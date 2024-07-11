@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/576.ed7cbd21.chunk.js","mappings":"8HAAO,MAAMA,EAAiBC,GAAQA,EAAIC,KAAKC,GAASA,EAAKC,e","sources":["utilities.js"],"sourcesContent":["export const makeUpperCase = (arr) => arr.map((name) => name.toUpperCase());"],"names":["makeUpperCase","arr","map","name","toUpperCase"],"sourceRoot":""}

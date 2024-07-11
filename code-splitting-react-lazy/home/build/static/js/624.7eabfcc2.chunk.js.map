@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/624.7eabfcc2.chunk.js","mappings":"wHAAA,MAEA,EAFc,CAAC,SAAU,S","sources":["names.js"],"sourcesContent":["const names = ['Miggie', \"Mickey\"];\n\nexport default names;"],"names":[],"sourceRoot":""}
